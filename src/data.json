@@ -1,0 +1,71 @@
+[
+  {
+    "VendorName": "NJEZPASS",
+    "TotalBillAmount": 175250.28,
+    "NumberOfBills": 32,
+    "color":  "rgb(153, 153, 255)"
+
+  },
+  {
+    "VendorName": "FDOT",
+    "TotalBillAmount": 170095.79,
+    "NumberOfBills": 13,
+    "color":  "rgb(255, 26, 102)"
+
+  },
+  {
+    "VendorName": "ISTHA",
+    "TotalBillAmount": 163213.82,
+    "NumberOfBills": 77,   
+    "color":  "rgb(179, 128, 255)"
+
+
+  },
+  {
+    "VendorName": "BATA",
+    "TotalBillAmount": 141059.97,
+    "NumberOfBills": 98,    
+    "color":  "rgb(0, 51, 204)"
+
+  },
+  {
+    "VendorName": "407ETR",
+    "TotalBillAmount": 31362.43,
+    "NumberOfBills": 3,  
+    "color":  "rgb(26, 255, 163)"
+
+  },
+  {
+    "VendorName": "GoodToGo",
+    "TotalBillAmount": 23322.17,
+    "NumberOfBills": 9,
+    "color":  "rgb(255, 153, 153)"
+  },
+  {
+    "VendorName": "APASS",
+    "TotalBillAmount": 21367.09,
+    "NumberOfBills": 14, 
+    "color":  "rgb(255,99,132,0.6)"
+  },
+  {
+    "VendorName": "NTTA",
+    "TotalBillAmount": 18472.31,
+    "NumberOfBills": 2,   
+    "color":  "rgb(0, 102, 255)"
+
+  },
+  {
+    "VendorName": "TCA",
+    "TotalBillAmount": 4507.05,
+    "NumberOfBills": 1,  
+      "color":  "rgb(255,99,132,0.6)"
+
+  },
+  {
+    "VendorName": "Good2Go",
+    "TotalBillAmount": 2757.44,
+    "NumberOfBills": 3,
+    "color":  "rgb(255, 0, 0)"
+
+  }
+]
